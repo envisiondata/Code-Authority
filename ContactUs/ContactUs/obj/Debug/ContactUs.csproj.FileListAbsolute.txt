@@ -1,0 +1,116 @@
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\ApplicationInsights.config
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\roslyn\csc.exe
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\roslyn\System.Collections.Immutable.dll
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\roslyn\System.Reflection.Metadata.dll
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\roslyn\vbc.exe
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\roslyn\VBCSCompiler.exe
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\roslyn\VBCSCompiler.exe.config
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\ContactUs.dll.config
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\ContactUs.dll
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\ContactUs.pdb
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\Antlr3.Runtime.dll
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\EntityFramework.dll
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\EntityFramework.SqlServer.dll
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\Microsoft.AI.DependencyCollector.dll
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\Microsoft.AI.Web.dll
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\Microsoft.AI.WindowsServer.dll
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\Microsoft.ApplicationInsights.dll
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\Microsoft.Web.Infrastructure.dll
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\Newtonsoft.Json.dll
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\System.Web.Helpers.dll
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\System.Web.Mvc.dll
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\System.Web.Optimization.dll
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\System.Web.Razor.dll
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\System.Web.WebPages.Deployment.dll
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\System.Web.WebPages.dll
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\System.Web.WebPages.Razor.dll
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\WebGrease.dll
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\EntityFramework.xml
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\EntityFramework.SqlServer.xml
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\Microsoft.AI.DependencyCollector.xml
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\Microsoft.AI.Web.xml
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\Microsoft.AI.WindowsServer.xml
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\Microsoft.ApplicationInsights.xml
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\System.Web.Helpers.xml
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\System.Web.Mvc.xml
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\System.Web.Optimization.xml
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\System.Web.Razor.xml
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\System.Web.WebPages.xml
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\System.Web.WebPages.Deployment.xml
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\System.Web.WebPages.Razor.xml
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\Antlr3.Runtime.pdb
+C:\Developement\TestProjects\ContactUs\ContactUs\bin\Newtonsoft.Json.xml
+C:\Developement\TestProjects\ContactUs\ContactUs\obj\Debug\ContactUs.dll
+C:\Developement\TestProjects\ContactUs\ContactUs\obj\Debug\ContactUs.pdb
+C:\Developement\TestProjects\ContactUs\ContactUs\obj\Debug\ContactUs.csprojResolveAssemblyReference.cache
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\ApplicationInsights.config
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\roslyn\csc.exe
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\roslyn\System.Collections.Immutable.dll
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\roslyn\System.Reflection.Metadata.dll
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\roslyn\vbc.exe
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\roslyn\VBCSCompiler.exe
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\roslyn\VBCSCompiler.exe.config
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\ContactUs.dll.config
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\ContactUs.dll
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\ContactUs.pdb
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\Antlr3.Runtime.dll
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\EntityFramework.dll
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\EntityFramework.SqlServer.dll
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\Microsoft.AI.DependencyCollector.dll
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\Microsoft.AI.Web.dll
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\Microsoft.AI.WindowsServer.dll
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\Microsoft.ApplicationInsights.dll
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\Microsoft.Web.Infrastructure.dll
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\Newtonsoft.Json.dll
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\System.Web.Helpers.dll
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\System.Web.Mvc.dll
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\System.Web.Optimization.dll
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\System.Web.Razor.dll
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\System.Web.WebPages.Deployment.dll
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\System.Web.WebPages.dll
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\System.Web.WebPages.Razor.dll
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\WebGrease.dll
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\EntityFramework.xml
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\EntityFramework.SqlServer.xml
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\Microsoft.AI.DependencyCollector.xml
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\Microsoft.AI.Web.xml
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\Microsoft.AI.WindowsServer.xml
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\Microsoft.ApplicationInsights.xml
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\System.Web.Helpers.xml
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\System.Web.Mvc.xml
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\System.Web.Optimization.xml
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\System.Web.Razor.xml
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\System.Web.WebPages.xml
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\System.Web.WebPages.Deployment.xml
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\System.Web.WebPages.Razor.xml
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\Antlr3.Runtime.pdb
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\Newtonsoft.Json.xml
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\obj\Debug\ContactUs.csprojResolveAssemblyReference.cache
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\obj\Debug\ContactUs.dll
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\obj\Debug\ContactUs.pdb
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\BotDetect.dll
+C:\Developement\Test Projects\Code Authority\ContactUs\ContactUs\bin\BotDetect.Web.Mvc.dll

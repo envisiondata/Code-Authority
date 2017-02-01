@@ -1,0 +1,5 @@
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.iOS\obj\iPhone\Debug\optimized\
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.iOS\obj\iPhone\Debug\ContactUsXamarin.iOS.csprojResolveAssemblyReference.cache

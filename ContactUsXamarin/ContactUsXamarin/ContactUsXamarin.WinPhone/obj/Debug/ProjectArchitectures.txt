@@ -1,0 +1,2 @@
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.WinPhone\ContactUsXamarin.WinPhone.csproj;neutral
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.csproj;neutral

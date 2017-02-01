@@ -1,0 +1,179 @@
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\ApplicationInsights.config
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\roslyn\csc.exe
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\roslyn\vbc.exe
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\CAWebAPI.dll.config
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\CAWebAPI.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\CAWebAPI.pdb
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Antlr3.Runtime.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\EntityFramework.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\EntityFramework.SqlServer.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Microsoft.AI.Web.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Microsoft.Owin.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Microsoft.Owin.Security.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Newtonsoft.Json.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Owin.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\System.Net.Http.Formatting.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\System.Web.Helpers.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\System.Web.Http.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\System.Web.Http.Owin.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\System.Web.Http.WebHost.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\System.Web.Mvc.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\System.Web.Optimization.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\System.Web.Razor.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\System.Web.WebPages.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\WebGrease.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Microsoft.AI.Web.xml
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Newtonsoft.Json.xml
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\System.Net.Http.Formatting.xml
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\System.Web.Helpers.xml
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\System.Web.Http.xml
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\System.Web.Http.WebHost.xml
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\System.Web.Mvc.xml
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\System.Web.Optimization.xml
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\System.Web.Razor.xml
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\System.Web.WebPages.xml
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Antlr3.Runtime.pdb
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\EntityFramework.xml
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\EntityFramework.SqlServer.xml
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Microsoft.Owin.xml
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Microsoft.Owin.Security.xml
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\bin\System.Web.Http.Owin.xml
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\obj\Debug\CAWebAPI.dll
+C:\Developement\Test Projects\CAWebAPI\CAWebAPI\obj\Debug\CAWebAPI.pdb
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\ApplicationInsights.config
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\roslyn\csc.exe
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\roslyn\vbc.exe
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\CAWebAPI.dll.config
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\CAWebAPI.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\CAWebAPI.pdb
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Antlr3.Runtime.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\EntityFramework.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\EntityFramework.SqlServer.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Microsoft.AI.Web.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Microsoft.Owin.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Microsoft.Owin.Security.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Newtonsoft.Json.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Owin.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\System.Net.Http.Formatting.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\System.Web.Helpers.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\System.Web.Http.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\System.Web.Http.Owin.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\System.Web.Http.WebHost.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\System.Web.Mvc.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\System.Web.Optimization.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\System.Web.Razor.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\System.Web.WebPages.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\WebGrease.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Microsoft.AI.Web.xml
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Newtonsoft.Json.xml
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\System.Net.Http.Formatting.xml
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\System.Web.Helpers.xml
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\System.Web.Http.xml
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\System.Web.Http.WebHost.xml
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\System.Web.Mvc.xml
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\System.Web.Optimization.xml
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\System.Web.Razor.xml
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\System.Web.WebPages.xml
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Antlr3.Runtime.pdb
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\EntityFramework.xml
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\EntityFramework.SqlServer.xml
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Microsoft.Owin.xml
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Microsoft.Owin.Security.xml
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\bin\System.Web.Http.Owin.xml
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\obj\Debug\ContactUSWebAPI.csprojResolveAssemblyReference.cache
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\obj\Debug\CAWebAPI.dll
+C:\Developement\Test Projects\Code Authority\ContactUSWebAPI\CAWebAPI\obj\Debug\CAWebAPI.pdb

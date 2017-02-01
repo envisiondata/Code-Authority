@@ -1,0 +1,161 @@
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\ContactUsXamarin.Droid.csprojResolveAssemblyReference.cache
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\ContactUsXamarin.Droid.dll
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\ContactUsXamarin.Droid.pdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\ContactUsXamarin.Droid.apk
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\ContactUsXamarin.Droid-Signed.apk
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\ContactUsXamarin.dll
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\FormsViewGroup.dll
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\ContactUsXamarin.pdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\ContactUsXamarin.Droid.dll
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\ContactUsXamarin.Droid.pdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\android\bin\ContactUsXamarin.Droid.apk
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\res\drawable\icon.png
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\res\layout\tabbar.xml
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\res\layout\toolbar.xml
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\res\values\styles.xml
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\R.cs.flag
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\uploadflags.txt
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\ContactUsXamarin.Droid.dll.config
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\ContactUsXamarin.Droid.dll.mdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\ContactUsXamarin.dll.mdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Java.Interop.dll.mdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Mono.Android.dll.mdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Mono.CSharp.dll.mdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\mscorlib.dll.mdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\System.Core.dll.mdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\System.dll.mdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\System.Xml.dll.mdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\android\assets\ContactUsXamarin.dll.mdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\android\assets\ContactUsXamarin.Droid.dll.mdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\android\assets\System.dll.mdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Developement\Test Projects\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\ContactUsXamarin.Droid.dll.mdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\ContactUsXamarin.Droid.dll.config
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\ContactUsXamarin.Droid.dll
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\ContactUsXamarin.Droid.pdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\ContactUsXamarin.Droid.apk
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\ContactUsXamarin.Droid-Signed.apk
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\ContactUsXamarin.dll
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\FormsViewGroup.dll
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\ContactUsXamarin.pdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\ContactUsXamarin.dll.mdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\ContactUsXamarin.Droid.csprojResolveAssemblyReference.cache
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\ContactUsXamarin.Droid.dll
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\ContactUsXamarin.Droid.pdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\android\bin\ContactUsXamarin.Droid.apk
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\res\drawable\icon.png
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\res\layout\tabbar.xml
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\res\layout\toolbar.xml
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\res\values\styles.xml
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\R.cs.flag
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\uploadflags.txt
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\ContactUsXamarin.Droid.dll.mdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Java.Interop.dll.mdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Mono.Android.dll.mdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\Mono.CSharp.dll.mdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\mscorlib.dll.mdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\System.Core.dll.mdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\System.dll.mdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\System.Xml.dll.mdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\android\assets\ContactUsXamarin.dll.mdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\android\assets\ContactUsXamarin.Droid.dll.mdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\android\assets\System.dll.mdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\obj\Debug\ContactUsXamarin.Droid.dll.mdb
+C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin.Droid\bin\Debug\ContactUsXamarin.Droid.dll.mdb

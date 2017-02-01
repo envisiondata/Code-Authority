@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ContactUsXamarin.Views.Login">
+  <ContentPage.Content>
+    <OnPlatform x:TypeArguments="View">
+
+      <OnPlatform.iOS>
+
+        <RelativeLayout>
+
+          <StackLayout VerticalOptions="FillAndExpand" Padding="0,10,0,40" HorizontalOptions="Center">
+
+
+            <Frame BackgroundColor="Transparent" OutlineColor="White" Padding="0,0,0,0" Margin="-5,0,-5,20">
+              <Entry HorizontalTextAlignment="Center"  x:Name="UserNameiOS" StyleId="UserId" Placeholder="USER NAME" HeightRequest="60" BackgroundColor="#30000000" TextColor="White"/>
+            </Frame>
+            <Frame BackgroundColor="Transparent" OutlineColor="White" Padding="0,0,0,0" Margin="-5,0,-5,0">
+              <Entry HorizontalTextAlignment="Center" x:Name="PasswordiOS" StyleId="PasswordId" Placeholder="PASSWORD" HeightRequest="60" BackgroundColor="#30000000"  TextColor="White"/>
+            </Frame>
+            <Grid HorizontalOptions="Center" Padding="10,20,10,0">
+              <Grid.RowDefinitions>
+                <RowDefinition Height="40" />
+              </Grid.RowDefinitions>
+              <Button x:Name="loginButtoniOS" Text="Login" TextColor="White" Grid.Row="0" Grid.Column="0"  FontSize="Large" Clicked="OnLoginClicked" BackgroundColor="#6da6d8" />
+            </Grid>
+          </StackLayout>
+        </RelativeLayout>
+      </OnPlatform.iOS>
+
+      <OnPlatform.Android>
+        <StackLayout VerticalOptions="Center" Padding="30">
+          <Entry StyleId="UserId"  x:Name="UserNameAndroid"  Placeholder="USER NAME" />
+          <Entry StyleId="PasswordId" x:Name="PasswordAndroid" Placeholder="PASSWORD" IsPassword="true" />
+          <Button x:Name="loginButtonAndroid" Text="Login" Clicked="OnLoginClicked" />
+        </StackLayout>
+      </OnPlatform.Android>
+    </OnPlatform>
+  </ContentPage.Content>
+</ContentPage>

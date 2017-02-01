@@ -1,0 +1,66 @@
+﻿
+
+@model ContactUs.Models.Contact
+@using BotDetect.Web.Mvc;
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<script type="text/javascript">
+
+    $(document).ready(function () {
+        $('#bestTimeToCall').datetimepicker({
+            step: 15,
+            minTime: '9:00',
+            maxTime: '18:01'
+        });
+    });
+
+</script>
+@{MvcCaptcha exampleCaptcha = new MvcCaptcha("ExampleCaptcha"); }
+@using (Html.BeginForm())
+{
+    <div  class="editorForm">
+        <div class="editor">
+            @Html.LabelFor(a => a.FirstName, "First Name")<br />
+            @Html.TextBoxFor(a => a.FirstName)<br />
+            @Html.ValidationMessageFor(a => a.FirstName)
+        </div>
+        <div class="editor">
+            @Html.LabelFor(a => a.LastName, "Last Name")<br />
+            @Html.TextBoxFor(a => a.LastName)<br />
+            @Html.ValidationMessageFor(a => a.LastName)<br />
+        </div>
+
+        <div class="editor">
+            @Html.LabelFor(a => a.Telephone, "Phone")<br />
+            @Html.TextBoxFor(a => a.Telephone)<br />
+            @Html.ValidationMessageFor(a => a.Telephone)<br />
+        </div>
+
+        <div class="editor">
+            @Html.LabelFor(a => a.EmailAddress, "Email")<br />
+            @Html.TextBoxFor(a => a.EmailAddress)<br />
+            @Html.ValidationMessageFor(a => a.EmailAddress)<br />
+        </div>
+
+        <div class="editor">
+            @Html.LabelFor(a => a.BestTimeToCall, "Best Time to Call")<br />
+            @Html.TextBoxFor(a => a.BestTimeToCall, "{0:MM/dd/yyyy hh:mm}", new { id = "bestTimeToCall", style = "width:200px", @class = "datefield" })<br />
+            @Html.ValidationMessageFor(a => a.BestTimeToCall)<br />
+        </div>
+
+
+                    <div class="editor">
+                        @Html.Captcha(exampleCaptcha)
+                        @Html.TextBox("CaptchaCode")<br />
+
+                        <input type="submit" value="Create" />
+                        </div>
+                    </div>
+@*  *@}
+
+
+
+

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ContactUsXamarin.Views.ContactDetail">
+  <Label Text="{Binding MainText}" VerticalOptions="Center" HorizontalOptions="Center" />
+  <StackLayout Margin="10,10,10,0" Padding="10,10,10,0">
+    <ActivityIndicator x:Name="spinner" IsVisible="False"
+                 IsRunning="False"
+                 Color="#6da6d8"
+                 VerticalOptions="CenterAndExpand"
+                 HorizontalOptions="CenterAndExpand"
+                 RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent,
+                                        Property=Height,
+                                        Factor=0.27}"
+                 RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent,
+                                        Property=Height,
+                                        Factor=0.45}" />
+    <Label Text="Firs tName:"></Label>
+    <Label Text="{Binding FirstName}" />
+    <Label Text="Last Name:"></Label>
+    <Label Text="{Binding LastName}" />
+    <Label Text="Telephone:"></Label>
+    <Label Text="{Binding Telephone}" />
+    <Label Text="Email Address:"></Label>
+    <Label Text="{Binding EmailAddress}" />
+    <Label Text="Date:"></Label>
+    <Label Text="{Binding BestTimeToCall}" />
+    
+  </StackLayout>
+</ContentPage>
