@@ -24,8 +24,21 @@ namespace ContactUs
                       "~/Scripts/respond.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                      "~/Content/bootstrap.css",
-                      "~/Content/site.css"));
+                      "~/Content/site.css",
+                      "~/Content/bootstrap.min.css",
+                      "~/Content/jquery.datetimepicker.css",
+                      "~/Content/main.css",
+                      "~/Content/jquery-ui.css",
+                      "~/Content/jquery.dataTables.min.css"));
+
+
+            bundles.Add(new ScriptBundle("~/bundles/jsAssets").Include(
+                      "~/Scripts/modernizr-2.6.2.js",
+                      "~/Scripts/jquery-1.10.2.min.js",
+                      "~/Scripts/jquery.datetimepicker.js",
+                      "~/Scripts/jquery.dataTables.min.js",
+                      "~/Scripts/bootstrap.min.js",
+                      "~/Scripts/jquery-ui.js"));
         }
     }
 }

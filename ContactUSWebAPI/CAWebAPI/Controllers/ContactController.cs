@@ -63,11 +63,35 @@ namespace CAWebAPI.Controllers
         // PUT api/<controller>/5
         public void Put(int id, [FromBody]string value)
         {
+            throw new NotImplementedException();
         }
 
         // DELETE api/<controller>/5
-        public void Delete(int id)
+        [HttpGet]
+        public HttpResponseMessage Delete(string id)
         {
+
+            try
+            {
+                Guid itemID = new Guid(id);
+
+                var itemToRemove = _db.Contacts.SingleOrDefault(x => x.ContactID == itemID); //returns a single item.
+
+                if (itemToRemove != null)
+                {
+                    _db.Contacts.Remove(itemToRemove);
+                    _db.SaveChanges();
+                }
+
+                return new HttpResponseMessage(HttpStatusCode.OK);
+            }
+            catch
+            {
+
+            }
+
+            return new HttpResponseMessage(HttpStatusCode.InternalServerError);
+            
         }
     }
 }

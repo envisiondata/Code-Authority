@@ -1,11 +1,10 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
-    <LocalAssembly PathName="c:\developement\test projects\contactusxamarin\contactusxamarin\contactusxamarin.winphone\obj\debug\intermediatexaml\contactusxamarin.winphone.exe" HashGuid="08c5968d-33e8-f779-befd-8b1ea2db235d" />
-    <ReferenceAssembly PathName="c:\developement\test projects\code authority\contactusxamarin\contactusxamarin\contactusxamarin\bin\debug\contactusxamarin.dll" HashGuid="4bbd49ee-cb45-bee9-38ee-c9a90c46aef0" />
-    <ReferenceAssembly PathName="c:\developement\test projects\code authority\contactusxamarin\packages\xamarin.forms.2.3.3.180\lib\wpa81\xamarin.forms.core.dll" HashGuid="c782f70f-077f-7e2d-5bd4-f6b5da067f8a" />
-    <ReferenceAssembly PathName="c:\developement\test projects\code authority\contactusxamarin\packages\xamarin.forms.2.3.3.180\lib\wpa81\xamarin.forms.platform.dll" HashGuid="6b938cd4-44c0-2618-7eb6-4caa3f482076" />
-    <ReferenceAssembly PathName="c:\developement\test projects\code authority\contactusxamarin\packages\xamarin.forms.2.3.3.180\lib\wpa81\xamarin.forms.platform.winrt.dll" HashGuid="fe4acc44-27ba-0e4e-a08b-26ae7dccb678" />
-    <ReferenceAssembly PathName="c:\developement\test projects\code authority\contactusxamarin\packages\xamarin.forms.2.3.3.180\lib\wpa81\xamarin.forms.platform.winrt.phone.dll" HashGuid="63c58f91-4202-fe55-ec2a-7e34dee9505b" />
-    <ReferenceAssembly PathName="c:\developement\test projects\code authority\contactusxamarin\packages\xamarin.forms.2.3.3.180\lib\wpa81\xamarin.forms.xaml.dll" HashGuid="964969a0-caee-7d9d-82cd-9d1d01056ded" />
+    <ReferenceAssembly PathName="c:\development\test projects\code-authority\contactusxamarin\contactusxamarin\contactusxamarin\bin\debug\contactusxamarin.dll" HashGuid="1027295a-f532-7ba9-ccda-c2df0de9f024" />
+    <ReferenceAssembly PathName="c:\development\test projects\code-authority\contactusxamarin\packages\xamarin.forms.2.3.3.180\lib\wpa81\xamarin.forms.core.dll" HashGuid="c782f70f-077f-7e2d-5bd4-f6b5da067f8a" />
+    <ReferenceAssembly PathName="c:\development\test projects\code-authority\contactusxamarin\packages\xamarin.forms.2.3.3.180\lib\wpa81\xamarin.forms.platform.dll" HashGuid="6b938cd4-44c0-2618-7eb6-4caa3f482076" />
+    <ReferenceAssembly PathName="c:\development\test projects\code-authority\contactusxamarin\packages\xamarin.forms.2.3.3.180\lib\wpa81\xamarin.forms.platform.winrt.dll" HashGuid="fe4acc44-27ba-0e4e-a08b-26ae7dccb678" />
+    <ReferenceAssembly PathName="c:\development\test projects\code-authority\contactusxamarin\packages\xamarin.forms.2.3.3.180\lib\wpa81\xamarin.forms.platform.winrt.phone.dll" HashGuid="63c58f91-4202-fe55-ec2a-7e34dee9505b" />
+    <ReferenceAssembly PathName="c:\development\test projects\code-authority\contactusxamarin\packages\xamarin.forms.2.3.3.180\lib\wpa81\xamarin.forms.xaml.dll" HashGuid="964969a0-caee-7d9d-82cd-9d1d01056ded" />
   </ReferenceAssemblyList>
 </XamlCompilerSaveState>

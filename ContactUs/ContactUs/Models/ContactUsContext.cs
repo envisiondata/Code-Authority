@@ -12,6 +12,6 @@ namespace ContactUs.Models
         : base("name=CodeAuthority")
         {
         }
-        public DbSet<Contact> Contacts { get; set; }
+        //public DbSet<Contact> Contacts { get; set; }
     }
 }

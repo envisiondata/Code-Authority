@@ -59,3 +59,31 @@ C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\C
 C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin\obj\Debug\ContactUsXamarin.Views.ContactDetail.xaml.g.cs
 C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin\obj\Debug\ContactUsXamarin.dll.mdb
 C:\Developement\Test Projects\Code Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin\bin\Debug\ContactUsXamarin.dll.mdb
+C:\Development\Test Projects\Code-Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin\bin\Debug\Xamarin.Forms.Core.xml
+C:\Development\Test Projects\Code-Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin\obj\Debug\ContactUsXamarin.csproj.App.config
+C:\Development\Test Projects\Code-Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin\obj\Debug\ContactUsXamarin.MainPage.xaml.g.cs
+C:\Development\Test Projects\Code-Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin\obj\Debug\ContactUsXamarin.App.xaml.g.cs
+C:\Development\Test Projects\Code-Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin\obj\Debug\ContactUsXamarin.Views.BasePage.xaml.g.cs
+C:\Development\Test Projects\Code-Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin\obj\Debug\ContactUsXamarin.Views.Contact.xaml.g.cs
+C:\Development\Test Projects\Code-Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin\obj\Debug\ContactUsXamarin.Views.Login.xaml.g.cs
+C:\Development\Test Projects\Code-Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin\obj\Debug\ContactUsXamarin.Views.ContactDetail.xaml.g.cs
+C:\Development\Test Projects\Code-Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin\bin\Debug\ContactUsXamarin.dll.config
+C:\Development\Test Projects\Code-Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin\bin\Debug\ContactUsXamarin.dll
+C:\Development\Test Projects\Code-Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin\bin\Debug\ContactUsXamarin.pdb
+C:\Development\Test Projects\Code-Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin\bin\Debug\Newtonsoft.Json.dll
+C:\Development\Test Projects\Code-Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin\bin\Debug\System.Net.Http.dll
+C:\Development\Test Projects\Code-Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin\bin\Debug\System.Net.Http.Extensions.dll
+C:\Development\Test Projects\Code-Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin\bin\Debug\System.Net.Http.Primitives.dll
+C:\Development\Test Projects\Code-Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin\bin\Debug\Xamarin.Forms.Core.dll
+C:\Development\Test Projects\Code-Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Development\Test Projects\Code-Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Development\Test Projects\Code-Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin\bin\Debug\Newtonsoft.Json.xml
+C:\Development\Test Projects\Code-Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin\bin\Debug\System.Net.Http.xml
+C:\Development\Test Projects\Code-Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin\bin\Debug\System.Net.Http.Extensions.xml
+C:\Development\Test Projects\Code-Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin\bin\Debug\System.Net.Http.Primitives.xml
+C:\Development\Test Projects\Code-Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Development\Test Projects\Code-Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Development\Test Projects\Code-Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Development\Test Projects\Code-Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Development\Test Projects\Code-Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin\obj\Debug\ContactUsXamarin.dll
+C:\Development\Test Projects\Code-Authority\ContactUsXamarin\ContactUsXamarin\ContactUsXamarin\obj\Debug\ContactUsXamarin.pdb

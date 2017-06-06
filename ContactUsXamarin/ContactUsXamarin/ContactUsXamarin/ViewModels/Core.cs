@@ -14,7 +14,7 @@ namespace ContactUsXamarin.ViewModels
 
 
 
-        public async static Task<bool> GetLogin(string UserID, string TailNumber)
+        public async static Task<bool> GetLogin(string UserID, string password)
         {
             return true;
         }

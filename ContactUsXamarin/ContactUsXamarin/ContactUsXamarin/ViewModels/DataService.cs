@@ -16,7 +16,7 @@ namespace ContactUsXamarin.ViewModels
 
             HttpClient client = new HttpClient();
 
-            dynamic data = null;
+            dynamic data = @"""";
 
             try
             {
@@ -24,10 +24,7 @@ namespace ContactUsXamarin.ViewModels
                 if (response.IsSuccessStatusCode)
                 {
                     var json = await response.Content.ReadAsStringAsync();
-                    //data = JsonConvert.DeserializeObject(json);
                     data = json;
-
-
                 }
             }
             catch (Exception ex)
@@ -47,12 +44,6 @@ namespace ContactUsXamarin.ViewModels
             client.MaxResponseContentBufferSize = 256000;
 
             var uri = new Uri(string.Format(URL, string.Empty));
-
-            //TravelRequestRoot myRoot = new TravelRequestRoot();
-            //myRoot.travelrequest = PostData;
-
-            //List<TravelRequest> myTravel = new List<TravelRequest>();
-            //myTravel.Add(PostData);
 
             var json = JsonConvert.SerializeObject(PostData);
 

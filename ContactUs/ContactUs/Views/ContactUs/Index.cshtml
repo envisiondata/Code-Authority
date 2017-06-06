@@ -1,0 +1,59 @@
+﻿@model ContactUs.ViewModels.ContactsViewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="dt">
+    <table id="ContactTable">
+        <thead>
+            <tr>
+                <th>
+
+                    @Html.DisplayNameFor(M => M.ListContact.FirstOrDefault().FirstName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(M => M.ListContact.FirstOrDefault().LastName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(M => M.ListContact.FirstOrDefault().Telephone)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(M => M.ListContact.FirstOrDefault().EmailAddress)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(M => M.ListContact.FirstOrDefault().BestTimeToCall)
+                </th>
+                <th>
+                    Action
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var contact in Model.ListContact)
+            {
+                <tr>
+                    <td>@contact.FirstName</td>
+                    <td>@contact.LastName</td>
+                    <td>@contact.Telephone</td>
+                    <td>@contact.EmailAddress</td>
+                    <td>@contact.BestTimeToCall</td>
+                    <td>@Html.ActionLink("Delete", "Delete", new { id = contact.ContactID }, new { @class = "btn btn-danger btn-xs", @style = "color:white;" })</td>
+
+                </tr>
+            }
+
+
+        </tbody>
+
+    </table>
+
+    @Html.ActionLink("Create New", "Create", null, new { @class = "btn btn-primary", @style = "color:white;" })
+</div>
+<script>
+
+    $(document).ready(function () {
+        $('#ContactTable').DataTable();
+    });
+
+</script>
