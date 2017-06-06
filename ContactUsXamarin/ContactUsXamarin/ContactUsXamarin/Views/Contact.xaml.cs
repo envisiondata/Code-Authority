@@ -40,19 +40,15 @@ namespace ContactUsXamarin.Views
         protected override async void OnAppearing()
         {
 
-            //spinner.IsVisible = true;
-            //spinner.IsRunning = true;
+            spinner.IsVisible = true;
+            spinner.IsRunning = true;
 
             List<Contacts> MyContacts = Task.Run(() => GetContacts()).Result;
 
-
-
-             //= await GetContacts();
-
             ContactView.ItemsSource = MyContacts;
 
-            //spinner.IsVisible = false;
-            //spinner.IsRunning = false;
+            spinner.IsVisible = false;
+            spinner.IsRunning = false;
 
         }
         private async Task<List<Contacts>> GetContacts()

@@ -5,7 +5,7 @@
   <ContentPage.Content>
     <StackLayout VerticalOptions="Center" Padding="30">
 
-      <!--<ActivityIndicator x:Name="spinner" IsVisible="False"
+      <ActivityIndicator x:Name="spinner" IsVisible="False"
                        IsRunning="False"
                        Color="#6da6d8"
                        VerticalOptions="CenterAndExpand"
@@ -15,7 +15,7 @@
                                         Factor=0.27}"
                        RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent,
                                         Property=Height,
-                                        Factor=0.45}" />-->
+                                        Factor=0.45}" />
       <ListView x:Name="ContactView" ItemSelected="OnSelection">
         <ListView.ItemTemplate>
           <DataTemplate>
